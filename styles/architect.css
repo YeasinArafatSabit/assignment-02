@@ -1,0 +1,66 @@
+.intro{
+    width: 1924.26px;
+    /* height: 1341.99px; */
+    left: 0px;
+    top: 0px;
+    background-color: bisque;
+}
+h1{
+    font-weight: 700;
+    font-size: 64px;
+}
+p{
+    font-weight: 400;
+    font-size: 16px;
+}
+button{
+    width: 180px;
+    height: 64px;
+    background-color: rgb(165, 157, 42)
+}
+.team{
+    /* width: 342px;
+    height: 342px; */
+    left: 301px;
+    top: 1407px;
+    border: 2px;
+    /* display: -moz-inline-grid; */
+    /* justify-content: left; */
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+
+
+}
+.img{
+    width: 342px;
+    height: 342px;
+    border-radius: 8px;
+
+}
+.ex{
+    width: 586px;
+height: 982px;
+left: 301px;
+top: 2258px;
+}
+/* .px{
+    width: 586px;
+height: 171px;
+left: 301px;
+top: 2496px;
+} */
+.arc{
+    width: 800px;
+height: 1059px;
+left: 941px;
+top: 2219px;
+}
+.some{
+    width: 258px;
+height: 53px;
+left: 240px;
+top: 3434px;
+}
+
+
+
